@@ -18,3 +18,10 @@ This is the bookmark-manager challenge
 2. Use the command CREATE DATABASE bookmark_manager;
 3. Connect to the database \c bookmark_manager;
 4. Run the query CREATE TABLE bookmarks(id SERIAL PRIMARY KEY, url VARCHAR(60));
+
+## Creating a test database
+
+1. Connect to psql
+2. Use the command CREATE DATABASE bookmark_manager_test;
+3. Connect to the database \c bookmark_manager_test;
+4. Run the query CREATE TABLE bookmarks(id SERIAL PRIMARY KEY, url VARCHAR(60));

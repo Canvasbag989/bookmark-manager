@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/Abigail/Documents/Week_4/bookmark-manager/spec/features/bookmark_spec.rb": [
+      "/Users/Abigail/Documents/Week_4/bookmark-manager/spec/bookmark_spec.rb": [
         1,
         null,
         1,
@@ -9,6 +9,14 @@
         1,
         1,
         null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
         1,
         null,
         null,
@@ -19,6 +27,8 @@
         1,
         1,
         1,
+        1,
+        1,
         null,
         null,
         null,
@@ -26,10 +36,21 @@
         1,
         1,
         1,
+        1,
+        0,
+        0,
         null,
+        null
+      ],
+      "/Users/Abigail/Documents/Week_4/bookmark-manager/spec/features/setup_test_database.rb": [
+        1,
+        1,
+        2,
+        2,
+        2,
         null
       ]
     },
-    "timestamp": 1568045881
+    "timestamp": 1568215913
   }
 }
